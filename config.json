@@ -1,0 +1,5 @@
+{
+  "_comment": "Ekhane apnar pochonder somoy likhun (Bangladesh time, 24-hour format HH:MM). Jotogulo lagbe totogulo add/remove korte parben. Cron/YAML kichu chuute hobe na - shudhu ei file save korle e kaj hoye jabe.",
+  "run_times_bd": ["01:00", "06:00"],
+  "tolerance_minutes": 15
+}
