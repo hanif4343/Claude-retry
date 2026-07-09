@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "prompt": "STEP 1: Ekhane apnar boro kajer prothom chunk/step er prompt likhun."
+  },
+  {
+    "id": 2,
+    "prompt": "STEP 2: Ekhane duitiyo step er prompt likhun. Chaile age'r step er result eikhane reference korte parben (run.py dekhun)."
+  },
+  {
+    "id": 3,
+    "prompt": "STEP 3: Aro step lagle এভাবে niche add korte thakun."
+  }
+]
